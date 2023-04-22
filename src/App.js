@@ -63,7 +63,7 @@ const App = () => {
                     
                     </div>
 
-                        {/* Add ExpenseItem component here under */}        
+                        {/* Add ExpenseItem component here under * oioioi gigigi/}        
 
                         {/* Add AllocationForm component here under */}        
 
